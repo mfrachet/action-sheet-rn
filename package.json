@@ -1,12 +1,12 @@
 {
-  "name": "rn-actionsheet",
+  "name": "action-sheet-rn",
   "version": "0.0.1",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "homepage": "https://github.com/mfrachet/rn-actionsheet",
+  "homepage": "https://github.com/mfrachet/action-sheet-rn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mfrachet/rn-actionsheet"
+    "url": "https://github.com/mfrachet/action-sheet-rn"
   },
   "description": "Probably the most declarative API for ActionSheets in React Native",
   "keywords": [

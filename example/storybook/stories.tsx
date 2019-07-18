@@ -2,4 +2,4 @@
 import { storiesOf } from "@storybook/react-native";
 import elements from "./stories/elements";
 
-storiesOf("rn-actionsheet", module).add("Simple action sheet", elements);
+storiesOf("action-sheet-rn", module).add("Simple action sheet", elements);

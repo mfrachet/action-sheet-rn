@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Storyshots rn-actionsheet Simple action sheet 1`] = `
+exports[`Storyshots action-sheet-rn Simple action sheet 1`] = `
 <View
   style={
     Object {

@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mfrachet/rn-actionsheet.svg?branch=master)](https://travis-ci.org/mfrachet/rn-actionsheet)
+[![Build Status](https://travis-ci.org/mfrachet/action-sheet-rn.svg?branch=master)](https://travis-ci.org/mfrachet/action-sheet-rn)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Probably the most declarative API for ActionSheets in React Native
@@ -10,13 +10,13 @@ Probably the most declarative API for ActionSheets in React Native
 ## Installation
 
 ```javascript
-$ yarn add rn-actionsheet
+$ yarn add action-sheet-rn
 ```
 
 ## In your code
 
 ```jsx
-import { ActionSheet, SheetItem, SheetDivider } from "rn-actionsheet";
+import { ActionSheet, SheetItem, SheetDivider } from "action-sheet-rn";
 
 // Icons can be defined as:
 // const ShareIcon = <Image source={require("./share.png")} />
