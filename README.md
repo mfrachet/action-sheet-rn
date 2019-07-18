@@ -5,6 +5,8 @@ Probably the most declarative API for ActionSheets in React Native
 
 ![Image of the action sheets in action](./docs/as.gif)
 
+[Here's a running snack of the lib :)](https://snack.expo.io/@mfrachet/great-tortillas)
+
 # Usage
 
 ## Installation
