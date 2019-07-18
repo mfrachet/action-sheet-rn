@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "skipLibCheck": true,
+    "lib": ["es5", "es2015"],
+    "sourceMap": true
+  },
+  "exclude": [],
+  "include": ["./src/**/*"]
+}

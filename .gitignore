@@ -1,0 +1,4 @@
+node_modules/**/*
+lib
+example/actionsheet/**
+example/node_modules
